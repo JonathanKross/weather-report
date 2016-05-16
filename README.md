@@ -2,6 +2,8 @@
 
 ### A Command-Line Weather Report Tool
 
+### This project hasn't been completed yet. After entering a zipcode, the command-line will not return a full weather report.
+
 Enter a valid zipcode and get:
 
 * Current weather
